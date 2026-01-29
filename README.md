@@ -1,17 +1,33 @@
 # Pantry-Pal
 Smart Meal Planning
-Project Purpose
+Problem
+Users struggle to manage pantry stock, leading to food waste and missed meal opportunities.
 
-Pantry Pal exists to eliminate food waste and decision fatigue. It converts what users already own into actionable meal intelligence—saving money, time, and mental bandwidth.
+Solution
+A smart inventory and recipe app that helps users manage pantry stock, reduce food waste, and discover recipes based on what they have.
 
-Functionality
+Impact
+Reduces household food waste significantly.
+Encourages healthier, budget-friendly meal planning. 
+Supports sustainability through mindful consumption.
 
-Pantry inventory tracking
+Product Goal
+Minimize household food waste through smart inventory and recipe suggestions.
 
-Recipe suggestions based on available ingredients
+Key Metrics
+Active Users Tracking Pantry Items
+Recipe Suggestion Engagement Rate
+Food Waste Reduction %
+Retention Rate
+Average Saved Cost per User
+Feature Adoption Rate
 
-Expiry-date alerts
+Skills Applied
+Data-Driven Decision Making
+Feature Definition & Release Management
+A/B Testing & Product Iteration
 
-Smart shopping list generation
-
-Nutrition-conscious meal planning
+Tools Used
+Figma
+Notion
+Google Sheets
